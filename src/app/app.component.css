@@ -1,0 +1,81 @@
+.example-space{
+    flex: 1 1 auto;
+}
+.example-icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.example-card {
+    max-width: 300px;
+    margin-bottom: 8px;
+    flex: 1 1 auto;
+    
+  }
+  .example-card-2 {
+    max-width: 300px;
+    margin-bottom: 8px;
+    flex: 1 1 auto;
+    background-color: teal;
+  }
+.row2 .row1 .row3{
+    flex: 1 1 0;
+}
+.row2{
+    margin: 20px 10px 10px 10px;
+    width: 700px;
+}
+.row1{
+    margin:20px;
+}
+mat-list-item a{
+    color: white;
+    text-decoration: none;
+}
+mat-list-item :hover{
+    color: black;
+}
+.container{
+    display: flex;
+}
+.example-full-width{
+    width: 100%;
+}
+.example-card-row2{
+    margin-bottom: 8px;
+}
+mat-card-actions{
+    color: teal;
+}
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.imgPost{
+    max-width: 350px;
+}
+
+.row3{
+    width: 250px;
+    margin: 20px 10px 10px 10px;
+}
+.frReq{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.frs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.centerAction{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
